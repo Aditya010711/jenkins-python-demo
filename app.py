@@ -1,4 +1,4 @@
-print("Hello from Jenkins + Git + Python 🚀")
+print("Hello from Jenkins + Git + Python")
 
 x = 10
 y = 20
